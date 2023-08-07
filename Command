@@ -38,4 +38,4 @@ cd ns-3.35/
 ./waf --run first
 ./waf --run first --vis
 
-
+sudo chown -R $USER:$HOME
